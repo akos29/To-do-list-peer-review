@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To Do list 
+# To Do list Review
 
 > To do tasks is a simplistic but suitable software for keeping track of daily activities. Users of this app will be able to add or remove tasks, label completed tasks as such, and slide items up or down to prioritize their order. The user now has the option to designate all jobs as completed at once.
 
